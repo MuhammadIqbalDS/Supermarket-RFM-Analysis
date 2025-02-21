@@ -34,4 +34,3 @@ Sebuah supermarket ingin memahami pola belanja pelanggan untuk meningkatkan rete
 
 ---
 
-Sudah sesuai atau ingin ada revisi lain? 😊
